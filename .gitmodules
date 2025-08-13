@@ -1,0 +1,6 @@
+[submodule "docker-curriculum"]
+	path = docker-curriculum
+	url = https://github.com/prakhar1989/docker-curriculum.git
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/doron266/jenkins.git
